@@ -1,2 +1,0 @@
-# mayuri
-portfolio
